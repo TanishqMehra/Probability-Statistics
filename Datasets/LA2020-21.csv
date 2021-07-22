@@ -1,0 +1,499 @@
+Date,Ozone AQI Value,AQI Category,Site Name,Site ID,Source
+01-01-20,38,Good,Reseda,06-037-1201,AQS
+01-02-20,36,Good,Glendora,06-037-0016,AQS
+01-03-20,33,Good,Glendora,06-037-0016,AQS
+01-04-20,35,Good,Reseda,06-037-1201,AQS
+01-05-20,40,Good,Reseda,06-037-1201,AQS
+01-06-20,42,Good,Pasadena,06-037-2005,AQS
+01-07-20,32,Good,West Los Angeles,06-037-0113,AQS
+01-08-20,34,Good,Santa Clarita,06-037-6012,AQS
+01-09-20,35,Good,West Los Angeles,06-037-0113,AQS
+01-10-20,31,Good,Santa Clarita,06-037-6012,AQS
+01-11-20,33,Good,Lancaster-Division Street,06-037-9033,AQS
+01-12-20,39,Good,West Los Angeles,06-037-0113,AQS
+01/13/2020,41,Good,West Los Angeles,06-037-0113,AQS
+01/14/2020,37,Good,West Los Angeles,06-037-0113,AQS
+01/15/2020,36,Good,Reseda,06-037-1201,AQS
+01/16/2020,39,Good,Glendora,06-037-0016,AQS
+01/17/2020,38,Good,Santa Clarita,06-037-6012,AQS
+01/18/2020,40,Good,Santa Clarita,06-037-6012,AQS
+01/19/2020,37,Good,Santa Clarita,06-037-6012,AQS
+01/20/2020,34,Good,West Los Angeles,06-037-0113,AQS
+01/21/2020,39,Good,West Los Angeles,06-037-0113,AQS
+01/22/2020,36,Good,Lancaster-Division Street,06-037-9033,AQS
+01/23/2020,36,Good,Santa Clarita,06-037-6012,AQS
+01/24/2020,32,Good,Santa Clarita,06-037-6012,AQS
+01/25/2020,42,Good,Signal Hill (LBSH),06-037-4009,AQS
+01/26/2020,44,Good,Signal Hill (LBSH),06-037-4009,AQS
+01/27/2020,39,Good,Reseda,06-037-1201,AQS
+01/28/2020,42,Good,Reseda,06-037-1201,AQS
+01/29/2020,43,Good,Glendora,06-037-0016,AQS
+01/30/2020,40,Good,Pasadena,06-037-2005,AQS
+01/31/2020,36,Good,Reseda,06-037-1201,AQS
+02-01-20,47,Good,Pasadena,06-037-2005,AQS
+02-02-20,43,Good,Pasadena,06-037-2005,AQS
+02-03-20,45,Good,Pasadena,06-037-2005,AQS
+02-04-20,41,Good,Reseda,06-037-1201,AQS
+02-05-20,32,Good,Glendora,06-037-0016,AQS
+02-06-20,41,Good,Signal Hill (LBSH),06-037-4009,AQS
+02-07-20,43,Good,West Los Angeles,06-037-0113,AQS
+02-08-20,67,Moderate,Santa Clarita,06-037-6012,AQS
+02-09-20,42,Good,Reseda,06-037-1201,AQS
+02-10-20,41,Good,Reseda,06-037-1201,AQS
+02-11-20,44,Good,Reseda,06-037-1201,AQS
+02-12-20,43,Good,Pomona,06-037-1701,AQS
+02/13/2020,45,Good,Reseda,06-037-1201,AQS
+02/14/2020,49,Good,Santa Clarita,06-037-6012,AQS
+02/15/2020,61,Moderate,Santa Clarita,06-037-6012,AQS
+02/16/2020,77,Moderate,Pomona,06-037-1701,AQS
+02/17/2020,71,Moderate,Pasadena,06-037-2005,AQS
+02/18/2020,45,Good,West Los Angeles,06-037-0113,AQS
+02/19/2020,49,Good,Pasadena,06-037-2005,AQS
+02/20/2020,47,Good,Pasadena,06-037-2005,AQS
+02/21/2020,58,Moderate,Pasadena,06-037-2005,AQS
+02/22/2020,41,Good,Pasadena,06-037-2005,AQS
+02/23/2020,47,Good,Pasadena,06-037-2005,AQS
+02/24/2020,44,Good,Pasadena,06-037-2005,AQS
+02/25/2020,46,Good,Pasadena,06-037-2005,AQS
+02/26/2020,43,Good,Santa Clarita,06-037-6012,AQS
+02/27/2020,43,Good,Pasadena,06-037-2005,AQS
+02/28/2020,45,Good,Reseda,06-037-1201,AQS
+02/29/2020,50,Good,Reseda,06-037-1201,AQS
+03-01-20,46,Good,Reseda,06-037-1201,AQS
+03-02-20,44,Good,Pasadena,06-037-2005,AQS
+03-03-20,44,Good,Pasadena,06-037-2005,AQS
+03-04-20,44,Good,Reseda,06-037-1201,AQS
+03-05-20,58,Moderate,Reseda,06-037-1201,AQS
+03-06-20,58,Moderate,Santa Clarita,06-037-6012,AQS
+03-07-20,41,Good,Pomona,06-037-1701,AQS
+03-08-20,42,Good,Pasadena,06-037-2005,AQS
+03-09-20,37,Good,Pasadena,06-037-2005,AQS
+03-10-20,28,Good,Pasadena,06-037-2005,AQS
+03-11-20,41,Good,Reseda,06-037-1201,AQS
+03-12-20,31,Good,Azusa,06-037-0002,AQS
+03/13/2020,37,Good,Santa Clarita,06-037-6012,AQS
+03/14/2020,41,Good,Reseda,06-037-1201,AQS
+03/15/2020,43,Good,Pasadena,06-037-2005,AQS
+03/16/2020,38,Good,Lancaster-Division Street,06-037-9033,AQS
+03/17/2020,42,Good,Pasadena,06-037-2005,AQS
+03/18/2020,44,Good,Reseda,06-037-1201,AQS
+03/19/2020,44,Good,Reseda,06-037-1201,AQS
+03/20/2020,43,Good,Pasadena,06-037-2005,AQS
+03/21/2020,47,Good,Reseda,06-037-1201,AQS
+03/22/2020,43,Good,Pasadena,06-037-2005,AQS
+03/23/2020,45,Good,Pasadena,06-037-2005,AQS
+03/24/2020,43,Good,Pasadena,06-037-2005,AQS
+03/25/2020,44,Good,Pasadena,06-037-2005,AQS
+03/26/2020,45,Good,Pasadena,06-037-2005,AQS
+03/27/2020,47,Good,Reseda,06-037-1201,AQS
+03/28/2020,51,Moderate,Pasadena,06-037-2005,AQS
+03/29/2020,51,Moderate,Pasadena,06-037-2005,AQS
+03/30/2020,54,Moderate,Pasadena,06-037-2005,AQS
+03/31/2020,74,Moderate,Pasadena,06-037-2005,AQS
+04-01-20,67,Moderate,Glendora,06-037-0016,AQS
+04-02-20,49,Good,Reseda,06-037-1201,AQS
+04-03-20,54,Moderate,Pasadena,06-037-2005,AQS
+04-04-20,50,Good,Reseda,06-037-1201,AQS
+04-05-20,37,Good,Pomona,06-037-1701,AQS
+04-06-20,41,Good,Reseda,06-037-1201,AQS
+04-07-20,40,Good,Reseda,06-037-1201,AQS
+04-08-20,43,Good,Reseda,06-037-1201,AQS
+04-09-20,35,Good,Reseda,06-037-1201,AQS
+04-10-20,42,Good,Pasadena,06-037-2005,AQS
+04-11-20,49,Good,Pasadena,06-037-2005,AQS
+04-12-20,39,Good,Reseda,06-037-1201,AQS
+04/13/2020,38,Good,Reseda,06-037-1201,AQS
+04/14/2020,51,Moderate,Glendora,06-037-0016,AQS
+04/15/2020,74,Moderate,Pasadena,06-037-2005,AQS
+04/16/2020,71,Moderate,Pasadena,06-037-2005,AQS
+04/17/2020,43,Good,Reseda,06-037-1201,AQS
+04/18/2020,40,Good,Pasadena,06-037-2005,AQS
+04/19/2020,44,Good,Pasadena,06-037-2005,AQS
+04/20/2020,42,Good,Pasadena,06-037-2005,AQS
+04/21/2020,47,Good,Pasadena,06-037-2005,AQS
+04/22/2020,100,Moderate,Glendora,06-037-0016,AQS
+04/23/2020,140,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+04/24/2020,143,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+04/25/2020,182,Unhealthy,Pasadena,06-037-2005,AQS
+04/26/2020,166,Unhealthy,Pasadena,06-037-2005,AQS
+04/27/2020,108,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+04/28/2020,185,Unhealthy,Santa Clarita,06-037-6012,AQS
+04/29/2020,147,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+04/30/2020,143,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+05-01-20,97,Moderate,Glendora,06-037-0016,AQS
+05-02-20,90,Moderate,Glendora,06-037-0016,AQS
+05-03-20,61,Moderate,Glendora,06-037-0016,AQS
+05-04-20,115,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+05-05-20,159,Unhealthy,Pomona,06-037-1701,AQS
+05-06-20,206,Very Unhealthy,Glendora,06-037-0016,AQS
+05-07-20,203,Very Unhealthy,Pasadena,06-037-2005,AQS
+05-08-20,185,Unhealthy,Santa Clarita,06-037-6012,AQS
+05-09-20,143,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+05-10-20,97,Moderate,Pasadena,06-037-2005,AQS
+05-11-20,80,Moderate,Glendora,06-037-0016,AQS
+05-12-20,39,Good,Pomona,06-037-1701,AQS
+05/13/2020,49,Good,Pasadena,06-037-2005,AQS
+05/14/2020,48,Good,Glendora,06-037-0016,AQS
+05/15/2020,87,Moderate,Glendora,06-037-0016,AQS
+05/16/2020,140,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+05/17/2020,77,Moderate,Pasadena,06-037-2005,AQS
+05/18/2020,39,Good,Reseda,06-037-1201,AQS
+05/19/2020,45,Good,Pomona,06-037-1701,AQS
+05/20/2020,54,Moderate,Pomona,06-037-1701,AQS
+05/21/2020,97,Moderate,Pasadena,06-037-2005,AQS
+05/22/2020,64,Moderate,Glendora,06-037-0016,AQS
+05/23/2020,71,Moderate,Pasadena,06-037-2005,AQS
+05/24/2020,108,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+05/25/2020,140,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+05/26/2020,147,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+05/27/2020,136,Unhealthy for Sensitive Groups,Reseda,06-037-1201,AQS
+05/28/2020,161,Unhealthy,Santa Clarita,06-037-6012,AQS
+05/29/2020,64,Moderate,Lancaster-Division Street,06-037-9033,AQS
+05/30/2020,42,Good,Pomona,06-037-1701,AQS
+05/31/2020,54,Moderate,Pasadena,06-037-2005,AQS
+06-01-20,71,Moderate,Pomona,06-037-1701,AQS
+06-02-20,122,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+06-03-20,129,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+06-04-20,108,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+06-05-20,35,Good,Lancaster-Division Street,06-037-9033,AQS
+06-06-20,38,Good,Reseda,06-037-1201,AQS
+06-07-20,48,Good,Pomona,06-037-1701,AQS
+06-08-20,74,Moderate,Pasadena,06-037-2005,AQS
+06-09-20,80,Moderate,Glendora,06-037-0016,AQS
+06-10-20,143,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+06-11-20,161,Unhealthy,Glendora,06-037-0016,AQS
+06-12-20,77,Moderate,Glendora,06-037-0016,AQS
+06/13/2020,61,Moderate,Glendora,06-037-0016,AQS
+06/14/2020,77,Moderate,Santa Clarita,06-037-6012,AQS
+06/15/2020,112,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+06/16/2020,61,Moderate,Santa Clarita,06-037-6012,AQS
+06/17/2020,71,Moderate,Santa Clarita,06-037-6012,AQS
+06/18/2020,64,Moderate,Santa Clarita,06-037-6012,AQS
+06/19/2020,97,Moderate,Santa Clarita,06-037-6012,AQS
+06/20/2020,77,Moderate,Lancaster-Division Street,06-037-9033,AQS
+06/21/2020,105,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+06/22/2020,154,Unhealthy,Santa Clarita,06-037-6012,AQS
+06/23/2020,159,Unhealthy,Santa Clarita,06-037-6012,AQS
+06/24/2020,156,Unhealthy,Santa Clarita,06-037-6012,AQS
+06/25/2020,112,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+06/26/2020,126,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+06/27/2020,119,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+06/28/2020,40,Good,Lancaster-Division Street,06-037-9033,AQS
+06/29/2020,44,Good,Reseda,06-037-1201,AQS
+06/30/2020,80,Moderate,Pomona,06-037-1701,AQS
+07-01-20,77,Moderate,Santa Clarita,06-037-6012,AQS
+07-02-20,100,Moderate,Glendora,06-037-0016,AQS
+07-03-20,129,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07-04-20,101,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07-05-20,150,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07-06-20,140,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07-07-20,129,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07-08-20,105,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07-09-20,156,Unhealthy,Glendora,06-037-0016,AQS
+07-10-20,204,Very Unhealthy,Glendora,06-037-0016,AQS
+07-11-20,177,Unhealthy,Glendora,06-037-0016,AQS
+07-12-20,172,Unhealthy,Glendora,06-037-0016,AQS
+07/13/2020,112,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+07/14/2020,90,Moderate,Glendora,06-037-0016,AQS
+07/15/2020,101,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+07/16/2020,108,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07/17/2020,136,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07/18/2020,122,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+07/19/2020,97,Moderate,Pomona,06-037-1701,AQS
+07/20/2020,133,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+07/21/2020,143,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+07/22/2020,100,Moderate,Santa Clarita,06-037-6012,AQS
+07/23/2020,80,Moderate,Santa Clarita,06-037-6012,AQS
+07/24/2020,115,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+07/25/2020,140,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+07/26/2020,143,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+07/27/2020,97,Moderate,Santa Clarita,06-037-6012,AQS
+07/28/2020,129,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+07/29/2020,164,Unhealthy,Santa Clarita,06-037-6012,AQS
+07/30/2020,161,Unhealthy,Glendora,06-037-0016,AQS
+07/31/2020,187,Unhealthy,Pomona,06-037-1701,AQS
+08-01-20,161,Unhealthy,Santa Clarita,06-037-6012,AQS
+08-02-20,140,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+08-03-20,200,Unhealthy,Santa Clarita,06-037-6012,AQS
+08-04-20,122,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+08-05-20,97,Moderate,Santa Clarita,06-037-6012,AQS
+08-06-20,61,Moderate,Santa Clarita,06-037-6012,AQS
+08-07-20,93,Moderate,Santa Clarita,06-037-6012,AQS
+08-08-20,112,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+08-09-20,105,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+08-10-20,87,Moderate,Pomona,06-037-1701,AQS
+08-11-20,112,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+08-12-20,147,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+08/13/2020,166,Unhealthy,Pomona,06-037-1701,AQS
+08/14/2020,204,Very Unhealthy,Glendora,06-037-0016,AQS
+08/15/2020,220,Very Unhealthy,Glendora,06-037-0016,AQS
+08/16/2020,93,Moderate,Santa Clarita,06-037-6012,AQS
+08/17/2020,164,Unhealthy,Glendora,06-037-0016,AQS
+08/18/2020,222,Very Unhealthy,Glendora,06-037-0016,AQS
+08/19/2020,217,Very Unhealthy,Glendora,06-037-0016,AQS
+08/20/2020,218,Very Unhealthy,Santa Clarita,06-037-6012,AQS
+08/21/2020,200,Unhealthy,Lancaster-Division Street,06-037-9033,AirNow
+08/22/2020,143,Unhealthy for Sensitive Groups,Lancaster-Division Street,06-037-9033,AirNow
+08/23/2020,71,Moderate,Glendora,06-037-0016,AQS
+08/24/2020,90,Moderate,Santa Clarita,06-037-6012,AQS
+08/25/2020,74,Moderate,Glendora,06-037-0016,AQS
+08/26/2020,97,Moderate,Pomona,06-037-1701,AQS
+08/27/2020,129,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+08/28/2020,112,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+08/29/2020,115,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+08/30/2020,115,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+08/31/2020,115,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+09-01-20,100,Moderate,Glendora,06-037-0016,AQS
+09-02-20,150,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+09-03-20,201,Very Unhealthy,Santa Clarita,06-037-6012,AQS
+09-04-20,220,Very Unhealthy,Glendora,06-037-0016,AQS
+09-05-20,235,Very Unhealthy,Glendora,06-037-0016,AQS
+09-06-20,214,Very Unhealthy,Los Angeles-North Main Street,06-037-1103,AQS
+09-07-20,90,Moderate,Santa Clarita,06-037-6012,AQS
+09-08-20,51,Moderate,Lancaster-Division Street,06-037-9033,AQS
+09-09-20,47,Good,Reseda,06-037-1201,AQS
+09-10-20,35,Good,Lancaster-Division Street,06-037-9033,AQS
+09-11-20,108,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+09-12-20,101,Unhealthy for Sensitive Groups,Pomona,06-037-1701,AQS
+09/13/2020,159,Unhealthy,Pomona,06-037-1701,AQS
+09/14/2020,197,Unhealthy,Glendora,06-037-0016,AQS
+09/15/2020,161,Unhealthy,Reseda,06-037-1201,AQS
+09/16/2020,154,Unhealthy,Glendora,06-037-0016,AQS
+09/17/2020,133,Unhealthy for Sensitive Groups,Lancaster-Division Street,06-037-9033,AQS
+09/18/2020,156,Unhealthy,Reseda,06-037-1201,AQS
+09/19/2020,147,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+09/20/2020,119,Unhealthy for Sensitive Groups,North Hollywood (NOHO),06-037-4010,AQS
+09/21/2020,100,Moderate,Santa Clarita,06-037-6012,AQS
+09/22/2020,122,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+09/23/2020,126,Unhealthy for Sensitive Groups,Pasadena,06-037-2005,AQS
+09/24/2020,201,Very Unhealthy,Santa Clarita,06-037-6012,AQS
+09/25/2020,136,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+09/26/2020,151,Unhealthy,Reseda,06-037-1201,AQS
+09/27/2020,154,Unhealthy,Santa Clarita,06-037-6012,AQS
+09/28/2020,179,Unhealthy,Glendora,06-037-0016,AQS
+09/29/2020,150,Unhealthy for Sensitive Groups,Pasadena,06-037-2005,AQS
+09/30/2020,161,Unhealthy,Glendora,06-037-0016,AQS
+10-01-20,172,Unhealthy,North Hollywood (NOHO),06-037-4010,AQS
+10-02-20,204,Very Unhealthy,Reseda,06-037-1201,AQS
+10-03-20,210,Very Unhealthy,Reseda,06-037-1201,AQS
+10-04-20,177,Unhealthy,Pasadena,06-037-2005,AQS
+10-05-20,151,Unhealthy,Reseda,06-037-1201,AQS
+10-06-20,159,Unhealthy,North Hollywood (NOHO),06-037-4010,AQS
+10-07-20,133,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+10-08-20,77,Moderate,Glendora,06-037-0016,AQS
+10-09-20,74,Moderate,Reseda,06-037-1201,AQS
+10-10-20,80,Moderate,Reseda,06-037-1201,AQS
+10-11-20,87,Moderate,Glendora,06-037-0016,AQS
+10-12-20,100,Moderate,Glendora,06-037-0016,AQS
+10/13/2020,100,Moderate,Reseda,06-037-1201,AQS
+10/14/2020,164,Unhealthy,Reseda,06-037-1201,AQS
+10/15/2020,185,Unhealthy,Los Angeles-North Main Street,06-037-1103,AQS
+10/16/2020,169,Unhealthy,North Hollywood (NOHO),06-037-4010,AQS
+10/17/2020,119,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AQS
+10/18/2020,159,Unhealthy,Santa Clarita,06-037-6012,AQS
+10/19/2020,126,Unhealthy for Sensitive Groups,Reseda,06-037-1201,AQS
+10/20/2020,129,Unhealthy for Sensitive Groups,Reseda,06-037-1201,AQS
+10/21/2020,119,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AQS
+10/22/2020,48,Good,Reseda,06-037-1201,AQS
+10/23/2020,48,Good,Lancaster-Division Street,06-037-9033,AQS
+10/24/2020,38,Good,Reseda,06-037-1201,AQS
+10/25/2020,39,Good,Reseda,06-037-1201,AQS
+10/26/2020,50,Good,Reseda,06-037-1201,AQS
+10/27/2020,97,Moderate,Pomona,06-037-1701,AQS
+10/28/2020,90,Moderate,Reseda,06-037-1201,AQS
+10/29/2020,97,Moderate,West Los Angeles,06-037-0113,AQS
+10/30/2020,67,Moderate,Reseda,06-037-1201,AQS
+10/31/2020,93,Moderate,Los Angeles-North Main Street,06-037-1103,AQS
+11-01-20,87,Moderate,Los Angeles-North Main Street,06-037-1103,AQS
+11-02-20,84,Moderate,Reseda,06-037-1201,AQS
+11-03-20,90,Moderate,Reseda,06-037-1201,AQS
+11-04-20,87,Moderate,North Hollywood (NOHO),06-037-4010,AQS
+11-05-20,36,Good,Glendora,06-037-0016,AQS
+11-06-20,43,Good,Reseda,06-037-1201,AQS
+11-07-20,44,Good,Reseda,06-037-1201,AQS
+11-08-20,42,Good,Reseda,06-037-1201,AQS
+11-09-20,40,Good,Reseda,06-037-1201,AQS
+11-10-20,40,Good,Reseda,06-037-1201,AQS
+11-11-20,40,Good,Reseda,06-037-1201,AQS
+11-12-20,50,Good,Reseda,06-037-1201,AQS
+11/13/2020,44,Good,Reseda,06-037-1201,AQS
+11/14/2020,46,Good,Reseda,06-037-1201,AQS
+11/15/2020,46,Good,Pasadena,06-037-2005,AQS
+11/16/2020,44,Good,Reseda,06-037-1201,AQS
+11/17/2020,44,Good,Reseda,06-037-1201,AQS
+11/18/2020,36,Good,Reseda,06-037-1201,AQS
+11/19/2020,40,Good,Reseda,06-037-1201,AQS
+11/20/2020,41,Good,Reseda,06-037-1201,AQS
+11/21/2020,41,Good,Pasadena,06-037-2005,AQS
+11/22/2020,49,Good,Pomona,06-037-1701,AQS
+11/23/2020,39,Good,Santa Clarita,06-037-6012,AQS
+11/24/2020,43,Good,Reseda,06-037-1201,AQS
+11/25/2020,47,Good,Reseda,06-037-1201,AQS
+11/26/2020,46,Good,Signal Hill (LBSH),06-037-4009,AQS
+11/27/2020,38,Good,Reseda,06-037-1201,AQS
+11/28/2020,39,Good,Reseda,06-037-1201,AQS
+11/29/2020,42,Good,Azusa,06-037-0002,AQS
+11/30/2020,38,Good,Reseda,06-037-1201,AQS
+12-01-20,38,Good,Reseda,06-037-1201,AQS
+12-02-20,46,Good,Reseda,06-037-1201,AQS
+12-03-20,44,Good,Reseda,06-037-1201,AQS
+12-04-20,42,Good,Reseda,06-037-1201,AQS
+12-05-20,39,Good,Reseda,06-037-1201,AQS
+12-06-20,44,Good,Reseda,06-037-1201,AQS
+12-07-20,43,Good,Reseda,06-037-1201,AQS
+12-08-20,42,Good,Reseda,06-037-1201,AQS
+12-09-20,40,Good,Reseda,06-037-1201,AQS
+12-10-20,38,Good,Reseda,06-037-1201,AQS
+12-11-20,41,Good,Reseda,06-037-1201,AQS
+12-12-20,39,Good,Reseda,06-037-1201,AQS
+12/13/2020,44,Good,Reseda,06-037-1201,AQS
+12/14/2020,39,Good,Reseda,06-037-1201,AQS
+12/15/2020,40,Good,Reseda,06-037-1201,AQS
+12/16/2020,35,Good,Reseda,06-037-1201,AQS
+12/17/2020,40,Good,Reseda,06-037-1201,AQS
+12/18/2020,41,Good,Reseda,06-037-1201,AQS
+12/19/2020,38,Good,Reseda,06-037-1201,AQS
+12/20/2020,43,Good,Pasadena,06-037-2005,AQS
+12/21/2020,39,Good,Reseda,06-037-1201,AQS
+12/22/2020,36,Good,Reseda,06-037-1201,AQS
+12/23/2020,43,Good,Reseda,06-037-1201,AQS
+12/24/2020,39,Good,Reseda,06-037-1201,AirNow
+12/25/2020,43,Good,Reseda,06-037-1201,AirNow
+12/26/2020,42,Good,Reseda,06-037-1201,AirNow
+12/27/2020,36,Good,Reseda,06-037-1201,AQS
+12/28/2020,34,Good,Azusa,06-037-0002,AQS
+12/29/2020,39,Good,Reseda,06-037-1201,AQS
+12/30/2020,42,Good,Reseda,06-037-1201,AQS
+12/31/2020,37,Good,Reseda,06-037-1201,AQS
+01-01-21,40,Good,Reseda,06-037-1201,AirNow
+01-02-21,34,Good,Pomona,06-037-1701,AirNow
+01-03-21,35,Good,Pomona,06-037-1701,AirNow
+01-04-21,32,Good,Reseda,06-037-1201,AirNow
+01-05-21,33,Good,Santa Clarita,06-037-6012,AirNow
+01-06-21,34,Good,Reseda,06-037-1201,AirNow
+01-07-21,36,Good,Reseda,06-037-1201,AirNow
+01-08-21,42,Good,Reseda,06-037-1201,AirNow
+01-09-21,40,Good,Reseda,06-037-1201,AirNow
+01-10-21,38,Good,Reseda,06-037-1201,AirNow
+01-11-21,36,Good,Glendora,06-037-0016,AirNow
+01-12-21,32,Good,Santa Clarita,06-037-6012,AirNow
+01/13/2021,36,Good,Santa Clarita,06-037-6012,AirNow
+01/14/2021,38,Good,Reseda,06-037-1201,AirNow
+01/15/2021,40,Good,Reseda,06-037-1201,AirNow
+01/16/2021,43,Good,Glendora,06-037-0016,AirNow
+01/17/2021,46,Good,Glendora,06-037-0016,AirNow
+01/18/2021,39,Good,Signal Hill (LBSH),06-037-4009,AirNow
+01/19/2021,38,Good,Reseda,06-037-1201,AirNow
+01/20/2021,38,Good,Signal Hill (LBSH),06-037-4009,AirNow
+01/21/2021,38,Good,Reseda,06-037-1201,AirNow
+01/22/2021,40,Good,Reseda,06-037-1201,AirNow
+01/23/2021,32,Good,Signal Hill (LBSH),06-037-4009,AirNow
+01/24/2021,36,Good,Signal Hill (LBSH),06-037-4009,AirNow
+01/25/2021,41,Good,Signal Hill (LBSH),06-037-4009,AirNow
+01/26/2021,39,Good,Reseda,06-037-1201,AirNow
+01/27/2021,39,Good,Signal Hill (LBSH),06-037-4009,AirNow
+01/28/2021,36,Good,Azusa,06-037-0002,AirNow
+01/29/2021,34,Good,Azusa,06-037-0002,AirNow
+01/30/2021,38,Good,Reseda,06-037-1201,AirNow
+01/31/2021,39,Good,Reseda,06-037-1201,AirNow
+02-01-21,30,Good,Santa Clarita,06-037-6012,AirNow
+02-02-21,40,Good,Reseda,06-037-1201,AirNow
+02-03-21,37,Good,Reseda,06-037-1201,AirNow
+02-04-21,44,Good,Santa Clarita,06-037-6012,AirNow
+02-05-21,42,Good,Reseda,06-037-1201,AirNow
+02-06-21,47,Good,Reseda,06-037-1201,AirNow
+02-07-21,49,Good,Reseda,06-037-1201,AirNow
+02-08-21,48,Good,Signal Hill (LBSH),06-037-4009,AirNow
+02-09-21,44,Good,Lancaster-Division Street,06-037-9033,AirNow
+02-10-21,44,Good,Reseda,06-037-1201,AirNow
+02-11-21,46,Good,North Hollywood (NOHO),06-037-4010,AirNow
+02-12-21,40,Good,Reseda,06-037-1201,AirNow
+02/13/2021,42,Good,Reseda,06-037-1201,AirNow
+02/14/2021,44,Good,Reseda,06-037-1201,AirNow
+02/15/2021,38,Good,Lancaster-Division Street,06-037-9033,AirNow
+02/16/2021,43,Good,Reseda,06-037-1201,AirNow
+02/17/2021,43,Good,Reseda,06-037-1201,AirNow
+02/18/2021,44,Good,Reseda,06-037-1201,AirNow
+02/19/2021,40,Good,North Hollywood (NOHO),06-037-4010,AirNow
+02/20/2021,43,Good,Azusa,06-037-0002,AirNow
+02/21/2021,47,Good,North Hollywood (NOHO),06-037-4010,AirNow
+02/22/2021,44,Good,Pasadena,06-037-2005,AirNow
+02/23/2021,42,Good,Reseda,06-037-1201,AirNow
+02/24/2021,51,Moderate,Reseda,06-037-1201,AirNow
+02/25/2021,48,Good,Reseda,06-037-1201,AirNow
+02/26/2021,46,Good,Lancaster-Division Street,06-037-9033,AirNow
+02/27/2021,46,Good,Reseda,06-037-1201,AirNow
+02/28/2021,46,Good,Azusa,06-037-0002,AirNow
+03-01-21,45,Good,Reseda,06-037-1201,AirNow
+03-02-21,48,Good,Reseda,06-037-1201,AirNow
+03-03-21,46,Good,Lancaster-Division Street,06-037-9033,AirNow
+03-04-21,50,Good,Lancaster-Division Street,06-037-9033,AirNow
+03-05-21,67,Moderate,Reseda,06-037-1201,AirNow
+03-06-21,50,Good,Reseda,06-037-1201,AirNow
+03-07-21,47,Good,Lancaster-Division Street,06-037-9033,AirNow
+03-08-21,44,Good,Reseda,06-037-1201,AirNow
+03-09-21,45,Good,Reseda,06-037-1201,AirNow
+03-10-21,43,Good,Reseda,06-037-1201,AirNow
+03-11-21,44,Good,Reseda,06-037-1201,AirNow
+03-12-21,43,Good,Signal Hill (LBSH),06-037-4009,AirNow
+03/13/2021,44,Good,Lancaster-Division Street,06-037-9033,AirNow
+03/14/2021,48,Good,Reseda,06-037-1201,AirNow
+03/15/2021,43,Good,Signal Hill (LBSH),06-037-4009,AirNow
+03/16/2021,40,Good,Signal Hill (LBSH),06-037-4009,AirNow
+03/17/2021,49,Good,Lancaster-Division Street,06-037-9033,AirNow
+03/18/2021,64,Moderate,Lancaster-Division Street,06-037-9033,AirNow
+03/19/2021,42,Good,Glendora,06-037-0016,AirNow
+03/20/2021,45,Good,North Hollywood (NOHO),06-037-4010,AirNow
+03/21/2021,46,Good,Azusa,06-037-0002,AirNow
+03/22/2021,48,Good,Pomona,06-037-1701,AirNow
+03/23/2021,43,Good,Reseda,06-037-1201,AirNow
+03/24/2021,47,Good,Reseda,06-037-1201,AirNow
+03/25/2021,42,Good,Reseda,06-037-1201,AirNow
+03/26/2021,44,Good,Reseda,06-037-1201,AirNow
+03/27/2021,50,Good,Glendora,06-037-0016,AirNow
+03/28/2021,80,Moderate,Pasadena,06-037-2005,AirNow
+03/29/2021,71,Moderate,Reseda,06-037-1201,AirNow
+03/30/2021,71,Moderate,Pasadena,06-037-2005,AirNow
+03/31/2021,74,Moderate,North Hollywood (NOHO),06-037-4010,AirNow
+04-01-21,80,Moderate,Reseda,06-037-1201,AirNow
+04-02-21,97,Moderate,Santa Clarita,06-037-6012,AirNow
+04-03-21,115,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AirNow
+04-04-21,115,Unhealthy for Sensitive Groups,Glendora,06-037-0016,AirNow
+04-05-21,49,Good,Santa Clarita,06-037-6012,AirNow
+04-06-21,54,Moderate,Santa Clarita,06-037-6012,AirNow
+04-07-21,87,Moderate,Glendora,06-037-0016,AirNow
+04-08-21,67,Moderate,Reseda,06-037-1201,AirNow
+04-09-21,80,Moderate,Reseda,06-037-1201,AirNow
+04-10-21,100,Moderate,Glendora,06-037-0016,AirNow
+04-11-21,105,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AirNow
+04-12-21,74,Moderate,Santa Clarita,06-037-6012,AirNow
+04/13/2021,47,Good,Reseda,06-037-1201,AirNow
+04/14/2021,51,Moderate,Santa Clarita,06-037-6012,AirNow
+04/15/2021,54,Moderate,Pomona,06-037-1701,AirNow
+04/16/2021,71,Moderate,Santa Clarita,06-037-6012,AirNow
+04/17/2021,93,Moderate,Pomona,06-037-1701,AirNow
+04/18/2021,71,Moderate,Signal Hill (LBSH),06-037-4009,AirNow
+04/19/2021,84,Moderate,Pomona,06-037-1701,AirNow
+04/20/2021,74,Moderate,Lancaster-Division Street,06-037-9033,AirNow
+04/21/2021,44,Good,Reseda,06-037-1201,AirNow
+04/22/2021,44,Good,Lancaster-Division Street,06-037-9033,AirNow
+04/23/2021,47,Good,Reseda,06-037-1201,AirNow
+04/24/2021,48,Good,Pomona,06-037-1701,AirNow
+04/25/2021,46,Good,Lancaster-Division Street,06-037-9033,AirNow
+04/26/2021,41,Good,Reseda,06-037-1201,AirNow
+04/27/2021,45,Good,Reseda,06-037-1201,AirNow
+04/28/2021,50,Good,Reseda,06-037-1201,AirNow
+04/29/2021,93,Moderate,North Hollywood (NOHO),06-037-4010,AirNow
+04/30/2021,136,Unhealthy for Sensitive Groups,Pasadena,06-037-2005,AirNow
+05-01-21,90,Moderate,Santa Clarita,06-037-6012,AirNow
+05-02-21,54,Moderate,Santa Clarita,06-037-6012,AirNow
+05-03-21,54,Moderate,Pomona,06-037-1701,AirNow
+05-04-21,100,Moderate,Glendora,06-037-0016,AirNow
+05-05-21,133,Unhealthy for Sensitive Groups,Santa Clarita,06-037-6012,AirNow
+05-06-21,84,Moderate,Santa Clarita,06-037-6012,AirNow
+05-07-21,74,Moderate,Santa Clarita,06-037-6012,AirNow
+05-08-21,93,Moderate,Santa Clarita,06-037-6012,AirNow
+05-09-21,84,Moderate,Santa Clarita,06-037-6012,AirNow
+05-10-21,51,Moderate,Santa Clarita,06-037-6012,AirNow
+05-11-21,100,Moderate,Santa Clarita,06-037-6012,AirNow
+05-12-21,100,Moderate,Santa Clarita,06-037-6012,AirNow
