@@ -4,7 +4,7 @@ My team's project for course CSE 544: Probability &amp; Statistics under Prof. A
 Analysis of COVID-19 Dataset 
 
 Developers: 
-Aayushi Nirmal
+Aayushi Nirmal<br>
 Drushti Mewada
 Karan Dipesh Gada
 Tanishq Sandeep Mehra
