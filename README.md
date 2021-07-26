@@ -3,11 +3,11 @@ My team's project for course CSE 544: Probability &amp; Statistics under Prof. A
 
 Analysis of COVID-19 Dataset 
 
-Developers: 
+Developers: <br>
 Aayushi Nirmal<br>
-Drushti Mewada
-Karan Dipesh Gada
-Tanishq Sandeep Mehra
+Drushti Mewada<br>
+Karan Dipesh Gada<br>
+Tanishq Sandeep Mehra<br>
 
 
 Technology: **Python**
